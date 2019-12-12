@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialDesignThemes.CustomResources", "FontResource\MaterialDesignThemes.CustomResources.csproj", "{9369FD02-4C58-4A5B-9BA2-AD1ECCA1A3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WPFApp\WPFApp.csproj", "{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo", "Demo", "{C974FE4A-F0EE-4DF4-A3C8-29CCD9B17A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCoreApp", "WPFCoreApp\WPFCoreApp.csproj", "{034C52C4-7E54-4183-BDF4-1E5FF95C89E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{DACCF718-F7A3-4D8F-9FFF-4180A7AAD98C}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{950B6B58-9630-409C-96B3-D834FF9D7373}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fulldotnet", "fulldotnet", "{265ABBA4-0B68-414F-A148-4FACCD2C2160}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_1.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_2.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_2.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_3.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_3.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_4.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\snapshot_4.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fix", "fix", "{63C1FEB0-0E20-4B4F-B9A9-F28CA7CEF2FC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_1.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_2.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_2.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_3.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_3.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_4.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\snapshot_4.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\Usage_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\Usage_1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnetcore", "dotnetcore", "{A22789A6-A3EC-4CBC-A653-67339BA3FFDF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_1.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_2.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_2.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_3.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_3.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_4.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\snapshot_4.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fix", "fix", "{5AF3EE6C-B11C-4332-A61B-74AA0C409F54}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_1.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_2.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_2.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_3.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_3.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_4.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net core\fix\snapshot_4.png
+		..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\Usage_1.png = ..\..\Users\pauloq0617\Pictures\MemoryLeak\.net full\fix\Usage_1.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9369FD02-4C58-4A5B-9BA2-AD1ECCA1A3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9369FD02-4C58-4A5B-9BA2-AD1ECCA1A3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9369FD02-4C58-4A5B-9BA2-AD1ECCA1A3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9369FD02-4C58-4A5B-9BA2-AD1ECCA1A3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034C52C4-7E54-4183-BDF4-1E5FF95C89E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034C52C4-7E54-4183-BDF4-1E5FF95C89E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034C52C4-7E54-4183-BDF4-1E5FF95C89E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034C52C4-7E54-4183-BDF4-1E5FF95C89E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D6F9317-E6CD-4895-9C70-8F5DBDCB6DFC} = {C974FE4A-F0EE-4DF4-A3C8-29CCD9B17A54}
+		{034C52C4-7E54-4183-BDF4-1E5FF95C89E0} = {C974FE4A-F0EE-4DF4-A3C8-29CCD9B17A54}
+		{265ABBA4-0B68-414F-A148-4FACCD2C2160} = {950B6B58-9630-409C-96B3-D834FF9D7373}
+		{63C1FEB0-0E20-4B4F-B9A9-F28CA7CEF2FC} = {265ABBA4-0B68-414F-A148-4FACCD2C2160}
+		{A22789A6-A3EC-4CBC-A653-67339BA3FFDF} = {950B6B58-9630-409C-96B3-D834FF9D7373}
+		{5AF3EE6C-B11C-4332-A61B-74AA0C409F54} = {A22789A6-A3EC-4CBC-A653-67339BA3FFDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BE49D5-B583-4E84-A5F3-53C5E831FD75}
+	EndGlobalSection
+EndGlobal

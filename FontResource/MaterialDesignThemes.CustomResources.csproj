@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net472</TargetFrameworks>
+    <UseWPF>true</UseWPF>
+    <Authors>Paulo Quicoli</Authors>
+    <Product />
+    <Company />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFrameworks)' == 'netcoreapp3.1'">
+    <PackageReference Include="MaterialDesignColors" Version="1.2.1" />
+    <PackageReference Include="MaterialDesignThemes" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFrameworks)' == 'net472'">
+    <PackageReference Include="MaterialDesignThemes" Version="[2.5.1,3.0.0]" />
+    <PackageReference Include="MaterialDesignColors" Version="[1.1.2,1.2.1]" />
+  </ItemGroup>
+
+</Project>
