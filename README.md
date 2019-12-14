@@ -30,3 +30,6 @@ Apply the fix in the MainPage, Page1 and Page2:
 `FontFamily="{customResources:FontResource FontName=Roboto}"`
 
 And redo the steps. You won't see the same problem.
+
+# Available as nuget package
+MaterialDesignThemes.CustomResources
