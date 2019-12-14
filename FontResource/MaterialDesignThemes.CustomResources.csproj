@@ -6,6 +6,9 @@
     <Product />
     <Company />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A mitigation for a WPF memory leak.
+WPF (.net core and full .net) has a memory leak regarding using a font source with FontFamily. This is discussed in issue #746 from Material Design in Xaml Toolkit.
+This solution/mitigation is based on Dominic Jonas idea and adapted to be used/integrated by Material Design in Xaml Tookit.</Description>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(TargetFrameworks)' == 'netcoreapp3.1'">
